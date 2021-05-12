@@ -1,0 +1,15 @@
+Date: 5/6/21
+Math: Childsmath(+),Test Review(),Textbook()
+Econ: Preview(),Apple(+),Banana()
+Physics: None(+)
+Others: Cream(+),Daddy()
+Daily: Ester(),Fish()
+English: None(+)
+
+Date: 5/7/21
+Math: Google(+),Happy(+)
+Econ: Icon(+)
+Physics: Jeep()
+Others: King(+),Language(+),Manu()
+Daily: North()
+English: None(+)
